@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Games]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Games\Bicycle Casino]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Games\Bicycle Casino\1.5]
+"Launched"="1"
+"PID"="55314-442-8905922-61436"
+"AppPath"="PALinit:DrivePALinit:PackagePartialDir\\App\\BCasino"
+"CDPath"="F:\\"
+"VersionType"="RetailVersion"
+"InstalledGroup"="3"
+"LangId"="9"
