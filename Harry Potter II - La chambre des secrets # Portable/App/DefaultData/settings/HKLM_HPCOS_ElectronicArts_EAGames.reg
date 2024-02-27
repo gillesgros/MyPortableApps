@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Harry Potter II]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Harry Potter II\ergc]
+@="4506210019237481300124"
+"val"="val"
+

@@ -1,0 +1,27 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\Harry Potter II]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\Harry Potter II\1.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\Harry Potter and the Chamber of Secrets]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\Harry Potter II]
+"DisplayName"="Harry Potter II"
+"Language"="French"
+"CD Drive"="E:\\"
+"Install Dir"="PALinit:DrivePALinit:PackagePartialDir\\App\\HPCOS"
+"Product GUID"="{7BF68B83-5057-4D4B-0093-28285EEB9EE3}"
+"Installed From"="E:\\"
+"Region"="NA"
+"Folder"="EA Games\\Harry Potter et la Chambre des Secrets "
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\Harry Potter II\1.0]
+"DisplayName"="Harry Potter II"
+"Language"=dword:00000002
+"LanguageName"="French"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\EA Games\Harry Potter and the Chamber of Secrets]
+"Install Dir"="PALinit:DrivePALinit:PackagePartialDir\\App\\HPCOS"
